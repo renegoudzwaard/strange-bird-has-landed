@@ -1,2 +1,2 @@
 # strange-bird-has-landed
-script checks for python
+script check for python exercise SuperPy
