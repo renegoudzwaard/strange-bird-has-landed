@@ -99,7 +99,8 @@ Multi-format support ensures interoperability with other tools.
 Automated linking of sales to purchases provides accurate financial reports and reduces human errors.
 The CLI approach makes it fast and lightweight—no GUI overhead.
 
-SuperPy is perfect for small business owners, hobbyists, or anyone needing accurate, flexible, and visually appealing inventory management directly from the terminal.
+SuperPy is perfect for small business owners, hobbyists, or anyone needing accurate,
+flexible, and visually appealing inventory management directly from the terminal.
 
 
 
